@@ -1,4 +1,4 @@
-@aristeasy - INFO
+ - INFO -
 - studying Computer Science & Economics at LMU-Munich
 - currently learning web programming
 - quite fond of task's trageting designing- & aesthetic problems
