@@ -1,9 +1,4 @@
- - INFO -
-- studying Computer Science & Economics at LMU-Munich
-- currently learning web programming
-- quite fond of task's trageting designing- & aesthetic problems
-- always happy to get good adivices 
-
++  Computer Science & Economics - LMU Munich
 
 <!---
 aristeasy/aristeasy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
